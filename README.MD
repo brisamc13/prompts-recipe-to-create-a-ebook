@@ -40,15 +40,17 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um e-book sobre o tema cannabis medicinal. O e-book é do nicho de terapêutico e científico e o subnicho é medicina canábica. O título deve ser épico e curto. E tenha uma temática de bruxaria com pesquisa. Me liste 5 variações de títulos                                                      |
+| conteúdo | faça um texto para ebook, com foco em cannabis medicinal, listando todos as doenças que já tem comprovação científica a respeito da melhoria ou cura com uso da cannabis em forma de extrato, como medicina alternativa ou complementar.  |
 
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | landscape of an agroforest with a woman in the center sitting cross-legged on a low plantation, 
+meditating with soft natural lighting. The drawing of a marijuana leaf appears illuminated in the center of this woman's forehead.
+style raw |
 
 ## ✨ Features
 
@@ -73,15 +75,10 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+  
+    
+  
+
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -89,4 +86,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Brisa Melo ](https://github.com/brisamc13)
