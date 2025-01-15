@@ -48,7 +48,9 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | landscape of an agroforest with a woman in the center sitting cross-legged on a low plantation, 
+meditating with soft natural lighting. The drawing of a marijuana leaf appears illuminated in the center of this woman's forehead.
+style rawv 5.1 |
 
 ## ✨ Features
 
